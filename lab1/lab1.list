@@ -1,0 +1,2 @@
+deb http://mirror.yandex.ru/debian bullseye main non-free
+deb-src http://mirror.yandex.ru/debian bullseye main non-free
